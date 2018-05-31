@@ -1,5 +1,5 @@
 numpy==1.14
 matplotlib==2.2
-scipy=1.0
-IPython=6.3.1
+scipy==1.0
+IPython==6.3.1
 
